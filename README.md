@@ -15,11 +15,11 @@
 &nbsp;
 <a href="https://www.geeksforgeeks.org/user/raza_coder34/" target="_blank"><img align="center" src="./images/Social/geeks-for-geeks.svg" alt="Mohammed Raza" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com" target="_blank"><img align="center" src="./images/Social/twitter.svg" alt="Mohammed Raza" height="30" width="40" /></a>
+<a href="https://x.com/razakhan_34" target="_blank"><img align="center" src="./images/Social/twitter.svg" alt="Mohammed Raza" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/" target="_blank"><img align="center" src="./images/Social/instagram.svg" alt="Mohammed Raza" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohd_raza_72" target="_blank"><img align="center" src="./images/Social/instagram.svg" alt="Mohammed Raza" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.facebook.com/" target="_blank"><img align="center" src="./images/Social/facebook.svg" alt="Mohammed Raza" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohd.raza.90038882" target="_blank"><img align="center" src="./images/Social/facebook.svg" alt="Mohammed Raza" height="30" width="40" /></a>
 &nbsp;
 </div>
 
@@ -65,9 +65,13 @@
 &nbsp;
 <a href="https://www.geeksforgeeks.org/user/raza_coder34/" target="_blank"><img align="center" src="./images/Social/geeks-for-geeks.svg" alt="Mohammed Raza" height="30" width="40" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/users/13803889/mohammed-raza" target="_blank"><img align="center" src="./images/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mohdraza8693_mr/" target="_blank"><img align="center" src="./images/Social/hackerrank.svg" alt="Mohammed Raza" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/" target="_blank"><img align="center" src="./images/Social/hackerrank.svg" alt="Mohammed Raza" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mohdraza8693_mr/" target="_blank"><img align="center" src="./images/Social/icons8-codechef.svg" style="color:white;" alt="Mohammed Raza" height="30" width="40" /></a>
+&nbsp;
+<a href="https://codeforces.com/profile/raza_coder34/" target="_blank"><img align="center" src="./images/Social/codeforces.svg" style="color:white;" alt="Mohammed Raza" height="30" width="40" /></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/13803889/mohammed-raza" target="_blank"><img align="center" src="./images/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
 &nbsp;
 
 ---
